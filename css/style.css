@@ -1,3 +1,16 @@
-section {
-  min-height: 400px;
+.navbar {
+    background-color: white;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #E7E7E7;
+}
+
+#projects {
+    background-color: #E7E7E7;
+}
+
+footer {
+    background-color: #E7E7E7;
 }
